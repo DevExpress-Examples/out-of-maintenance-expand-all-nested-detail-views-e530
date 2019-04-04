@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [Default.aspx](./CS/WebApplication79/Default.aspx) (VB: [Default.aspx](./VB/WebApplication79/Default.aspx))
-* [Default.aspx.cs](./CS/WebApplication79/Default.aspx.cs) (VB: [Default.aspx](./VB/WebApplication79/Default.aspx))
+* [Default.aspx.cs](./CS/WebApplication79/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebApplication79/Default.aspx.vb))
 <!-- default file list end -->
 # Expand all nested detail views
 
