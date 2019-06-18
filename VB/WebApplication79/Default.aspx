@@ -1,9 +1,9 @@
 <%@ Page Language="vb" AutoEventWireup="true" CodeBehind="Default.aspx.vb" Inherits="WebApplication79._Default" %>
 
-<%@ Register Assembly="DevExpress.Web.v11.2, Version=11.2.5.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A"
+<%@ Register Assembly="DevExpress.Web.v13.1, Version=13.1.4.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A"
 	Namespace="DevExpress.Web.ASPxEditors" TagPrefix="dxe" %>
 
-<%@ Register Assembly="DevExpress.Web.v11.2, Version=11.2.5.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A"
+<%@ Register Assembly="DevExpress.Web.v13.1, Version=13.1.4.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A"
 	Namespace="DevExpress.Web.ASPxGridView" TagPrefix="dxwgv" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
